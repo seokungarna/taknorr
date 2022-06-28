@@ -1,7 +1,7 @@
 {
   "name": "yellowcake",
   "HomePage": "https://yellowcake.netlify.com/",
-  "description": "An opinionated starter project for creating lightning-fast websites with Gatsby v2 and Netlify CMS v2",
+  "description": "An opinionated starter project for creating lightning-fast websites with Gatsby v2 ",
   "version": "2.0.0",
   "repository": {
     "type": "git",
@@ -14,8 +14,6 @@
     "gatsby-image": "^2.2.30",
     "gatsby-plugin-google-tagmanager": "^2.1.15",
     "gatsby-plugin-manifest": "^2.2.26",
-    "gatsby-plugin-netlify": "^2.1.23",
-    "gatsby-plugin-netlify-cms": "^4.1.26",
     "gatsby-plugin-nprogress": "^2.1.12",
     "gatsby-plugin-offline": "^3.0.17",
     "gatsby-plugin-postcss": "^2.1.13",
@@ -34,8 +32,7 @@
     "lodash": "^4.17.15",
     "lodash.clonedeep": "^4.5.0",
     "modern-normalize": "^0.5.0",
-    "netlify-cms-app": "^2.9.7",
-    "node-sass": "^4.13.0",
+    "node-sass": "^7.0.0",
     "postcss-preset-env": "^6.7.0",
     "prop-types": "^15.7.2",
     "react": "^16.11.0",
