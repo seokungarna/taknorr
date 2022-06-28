@@ -47,4 +47,4 @@ Vad man bör tänka på är att betong är rätt så tungt så man måste unders
 ###Måleri
 
 Vi hjälper även till att måla fasader och tak med olika tekniker. Vi arbetar i hela södra Sverige, i städer som Göteborg, Trelleborg, Malmö mm. Givetvis även i mer närliggande områden och städer såsom Söderköping med omnejd. 
-Ibland, när vi måste fokusera på tak tar vi hjälp av (Målare Malmö)[https://www.xn--mlaremalm-52a9q.nu/], med vilka vi har samarbetat med under en längre tid, och dessa behärskar alla möjliga målerijobb.
+Ibland, när vi måste fokusera på tak tar vi hjälp av [Målare Malmö](https://www.xn--mlaremalm-52a9q.nu/), med vilka vi har samarbetat med under en längre tid, och dessa behärskar alla möjliga målerijobb.
