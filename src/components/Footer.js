@@ -13,7 +13,7 @@ export default () => (
     <footer className="footer">
       <div className="container taCenter">
         <span>
-          © Copyright {new Date().getFullYear()} {' '}
+          © {new Date().getFullYear()} {' '}
           <a href="/">Takläggare Norrköping</a>
         </span>
       </div>
